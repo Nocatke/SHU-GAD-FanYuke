@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "GAD_FANYUKE",
+   "GUID": "{202799A6-5E25-487C-B80D-48FDC189145F}",
+   "Generator": "2024.1.3.8749"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{FDD7A251-5DE8-4A96-BC5B-23225A91FFC9}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{1B539634-98E2-41CE-AE53-53DE69B4D892}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{BEF8097D-E971-DF75-6225-1DFB21AE3E02}"
+ }
+}
