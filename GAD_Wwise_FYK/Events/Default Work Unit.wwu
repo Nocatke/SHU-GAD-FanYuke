@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{18806CD3-0422-4A8B-8D9D-12107157AB60}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{18806CD3-0422-4A8B-8D9D-12107157AB60}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_OBJ_Campfire_Burn" ID="{68C0B9E4-B4CE-414C-BEAB-5AC13882C1D9}">
+					<ChildrenList>
+						<Action Name="" ID="{BAF66158-EC92-4B26-AF48-94AE6263BD2B}" ShortID="1022401794">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Campfire_Burn" ID="{87783E0F-D351-4A3C-9A92-0BE8196B9D7C}" WorkUnitID="{01CE0D08-AA62-4D58-A2E9-BB1CFDDCFE2C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMB_2D_EXT_GEN_01" ID="{C36FBC3B-476E-4F66-A405-7B14D31A0C9D}">
+					<ChildrenList>
+						<Action Name="" ID="{3A55E966-AD3F-482D-95D4-585F01CFA2DD}" ShortID="683574728">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{B94A7C5D-05BD-45DE-9086-0549E4397257}" WorkUnitID="{950A1B90-DEC5-4563-810A-6516C6336C26}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_FOL_FS_Run" ID="{9BE71CC1-FCBE-479E-84B8-FA1D7097BDA6}">
+					<ChildrenList>
+						<Action Name="" ID="{62FE29B6-601B-479C-A2E5-F53D851AB6DD}" ShortID="891668930">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FOL_FS_Run" ID="{500547EA-4AA9-4F5E-B65B-CC4F96BFBD41}" WorkUnitID="{949C7707-AC30-4851-A493-2E30F086AA8E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Voice" ID="{1B717780-AC27-460B-A0B7-5CA127A851A0}">
+					<ChildrenList>
+						<Action Name="" ID="{20CE5477-4FB3-4C0A-9AEB-3658CDA0D9AC}" ShortID="49228918">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Voice" ID="{E82F309D-D7C5-4B55-92B5-FD19D0C70ED7}" WorkUnitID="{01CE0D08-AA62-4D58-A2E9-BB1CFDDCFE2C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

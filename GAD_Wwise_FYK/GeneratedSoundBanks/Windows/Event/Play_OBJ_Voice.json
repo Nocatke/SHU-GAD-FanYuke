@@ -1,0 +1,71 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1848995866",
+    "Type": "Event",
+    "GUID": "{1B717780-AC27-460B-A0B7-5CA127A851A0}",
+    "Language": "SFX",
+    "Hash": "{538C46C1-FA25-7BAA-2FAC-0F1C83DA1EF3}",
+    "ObjectPath": "Play_OBJ_Voice",
+    "ShortName": "Play_OBJ_Voice",
+    "Path": "Event/Play_OBJ_Voice.bnk",
+    "Media": [
+     {
+      "Id": "493850674",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VO_Female_WwiseSpatialAudio_P3.wav",
+      "Path": "Media/493850674.wem",
+      "CachePath": "65/{6512124E-4404-DE87-71B9-FAB4E6C4D35C}.wem"
+     },
+     {
+      "Id": "636785590",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VO_Female_WwiseSpatialAudio_P2.wav",
+      "Path": "Media/636785590.wem",
+      "CachePath": "5A/{5A6EC71C-A3C6-C23F-5BE5-29C7DA226CC1}.wem"
+     },
+     {
+      "Id": "1019487832",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VO_Female_WwiseSpatialAudio_P1.wav",
+      "Path": "Media/1019487832.wem",
+      "CachePath": "9D/{9DC0674F-1E17-DD64-B572-690C41336EAF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1848995866",
+      "Name": "Play_OBJ_Voice",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Voice",
+      "GUID": "{1B717780-AC27-460B-A0B7-5CA127A851A0}",
+      "MaxAttenuation": "10000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "493850674"
+       },
+       {
+        "Id": "636785590"
+       },
+       {
+        "Id": "1019487832"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1AADBBC6-5905-EEF4-59EE-8CA0DBE9ABD4}"
+ }
+}

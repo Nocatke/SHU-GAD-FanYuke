@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1848995866	Play_OBJ_Voice			\Default Work Unit\Play_OBJ_Voice	
+

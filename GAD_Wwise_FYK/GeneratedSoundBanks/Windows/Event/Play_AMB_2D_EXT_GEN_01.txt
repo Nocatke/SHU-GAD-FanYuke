@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2365185074	Play_AMB_2D_EXT_GEN_01			\Default Work Unit\Play_AMB_2D_EXT_GEN_01	
+

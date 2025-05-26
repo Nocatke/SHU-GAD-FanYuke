@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4184926149	Play_OBJ_Campfire_Burn			\Default Work Unit\Play_OBJ_Campfire_Burn	
+
